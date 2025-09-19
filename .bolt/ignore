@@ -1,11 +1,16 @@
-.yarn/*
-.husky/*
-.vscode/*
-docs/*
-extension/*
-scripts/*
+# folders to ignore
+.yarn/
+.husky/
+.vscode/
+docs/
+extension/
+scripts/
+visual-regressions/
+
+# files too big and should be ignored.
 CONTRIBUTING.md
 LICENSE
 package.json
 README.md
 TESTING.md
+yarn.lock

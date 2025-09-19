@@ -1,7 +1,0 @@
-{
-  "extends": "..",
-  "compilerOptions": {
-    "module": "Preserve",
-    "target": "ES2017"
-  },
-}
