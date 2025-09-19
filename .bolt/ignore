@@ -1,0 +1,11 @@
+.yarn/*
+.husky/*
+.vscode/*
+docs/*
+extension/*
+scripts/*
+CONTRIBUTING.md
+LICENSE
+package.json
+README.md
+TESTING.md
