@@ -33,3 +33,4 @@ storybook-static
 
 # Vite generated files
 vite.config.d.mts
+.env
